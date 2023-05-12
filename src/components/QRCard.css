@@ -1,0 +1,22 @@
+.card{
+    margin: 0 auto;
+    margin-bottom: 10px;
+    margin-top: 10rem;
+    float: none;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.card-title{
+    font-family: system-ui;
+    font-weight: bold;
+    font-size: 20px !important;
+}
+.card-text{
+    font-size: 16px;
+    color: #9c9a9a;
+}
+.card-img-top{
+   width: 90% !important;
+   margin-top: 12px;
+}
